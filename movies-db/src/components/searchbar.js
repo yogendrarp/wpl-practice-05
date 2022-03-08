@@ -33,7 +33,7 @@ class SearchBar extends React.Component {
             checked={isAvailable}
             onChange={this.handleIsAvailableChange}
           />{" "}
-          Only show products in stock
+          Only show movies that are available
         </p>
       </form>
     );
